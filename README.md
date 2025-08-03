@@ -1,5 +1,6 @@
 # Cara Pasang Indicator
 ✅ Langkah 1: Buka Folder Data MT5
+
 Buka platform MetaTrader 5.
 
 Klik menu File > Open Data Folder.
